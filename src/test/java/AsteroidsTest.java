@@ -2,12 +2,12 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 // testing class
 public class AsteroidsTest {
-//changes for demo
+
     @Test
     public void testExample() {
         assertEquals(2, 1 + 1);
     }
-// more tests
+
     @Test
     public void testMath1() {
         assertEquals(10, 5 + 5);
