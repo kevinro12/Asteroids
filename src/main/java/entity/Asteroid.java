@@ -1,7 +1,7 @@
 package org.psnbtech.entity;
 //change package name to org.psnbtech.entity
 import java.awt.Graphics2D;
-import java.util.Random;
+import java.util.Random;//changes for demo
 import org.psnbtech.Game;//changed stuff
 import org.psnbtech.WorldPanel;
 import org.psnbtech.util.Vector2;
