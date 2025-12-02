@@ -7,7 +7,7 @@ public class AsteroidsTest {
     public void testExample() {
         assertEquals(2, 1 + 1);
     }
-
+// more tests
     @Test
     public void testMath1() {
         assertEquals(10, 5 + 5);
